@@ -13,6 +13,7 @@ def main() -> None:
     Main function to illustrate Python basics
     This is a test line for CC3.4
     This is the second test line for CC3.4
+    This is the third test line for CC3.4
     """
     print("Starting MAIN function.\n")
     print("Name Python files with lowercase and underscores.\n")
