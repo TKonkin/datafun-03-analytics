@@ -1,0 +1,3 @@
+Value Score Statistics:
+Minimum: 0.00
+Maximum: 4898089000.00
